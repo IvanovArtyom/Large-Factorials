@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Large Factorials", "Large Factorials\Large Factorials.csproj", "{C459DC2B-5779-47B3-89F5-F4A164D528BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C459DC2B-5779-47B3-89F5-F4A164D528BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C459DC2B-5779-47B3-89F5-F4A164D528BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C459DC2B-5779-47B3-89F5-F4A164D528BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C459DC2B-5779-47B3-89F5-F4A164D528BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B742BEA6-7695-4732-93BB-6F7B565A1E37}
+	EndGlobalSection
+EndGlobal
